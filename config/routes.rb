@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   get '/verify' , to: 'verify#index'
 
-  
+
 end

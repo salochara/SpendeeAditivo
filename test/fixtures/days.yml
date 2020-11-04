@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cash: 1.5
+  debit_card: 1.5
+  credit_card: 1.5
+  new_affiliates: 
+  user: one
+
+two:
+  cash: 1.5
+  debit_card: 1.5
+  credit_card: 1.5
+  new_affiliates: 
+  user: two
