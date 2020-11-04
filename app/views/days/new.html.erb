@@ -1,0 +1,9 @@
+<%= simple_form_for @day do |f| %>
+  <%= f.input :cash %>
+  <%= f.input :debit_card %>
+  <%= f.input :credit_card %>
+  <%= f.input :new_affiliates %>
+
+  <%= f.button :submit, class: "btn btn-primary" %>
+<% end %>
+
